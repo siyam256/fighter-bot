@@ -1,5 +1,0 @@
-pyrogram 
-tgcrypto 
-google-generativeai 
-Pillow 
-nest_asyncio
